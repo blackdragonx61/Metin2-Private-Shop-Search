@@ -1,0 +1,2 @@
+60004	Looking Glass	Allows you to search for a specific item in your vicinity.
+60005	Trading Glass	Allows you to search for and immediately purchase a specific item in your vicinity.

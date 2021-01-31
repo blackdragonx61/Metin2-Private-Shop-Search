@@ -1,0 +1,2 @@
+60004	ETC	icon/item/60004.tga
+60005	ETC	icon/item/60005.tga

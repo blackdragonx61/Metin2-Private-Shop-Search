@@ -1,0 +1,17 @@
+"SHOP_SEARCH_OK";
+"You have successfully purchased the item.";
+
+"SHOP_SEARCH_SUCCESS_TARGET";
+"Shop has been successfully marked.";
+
+"SHOP_SEARCH_SAMEMAP_ERR";
+"You must be on the same map with the shop.";
+
+"SHOP_SEARCH_WHERE_IS_ITEM";
+"You don't have (%s) for using shop search.";
+
+"SHOP_SEARCH_CLOSE_TABS";
+"You have to close other windows for using shop search.";
+
+"SHOP_SEARCH_NO_SHOP";
+"This shop doesn't exist.";
