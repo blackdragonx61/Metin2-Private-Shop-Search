@@ -15,7 +15,7 @@
 
 ### Categories:
 
-![BLACK](https://i.imgur.com/73IlozG.png)
+![BLACK](https://i.imgur.com/IPEnLwZ.png)
 
 - [x] Cheque System:
 
