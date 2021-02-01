@@ -44,7 +44,7 @@ void CShopManager::ShopSearchProcess(LPCHARACTER ch, const TPacketCGPrivateShopS
 				continue;
 
 #if defined(ENABLE_CHEQUE_SYSTEM)
-			if ((p->iMinCheque <= it2->cheque_price && p->iMaxCheque >= it2->cheque_price) == false)
+			if ((p->iMinCheque <= ShopIter->cheque_price && p->iMaxCheque >= ShopIter->cheque_price) == false)
 				continue;
 #endif
 
