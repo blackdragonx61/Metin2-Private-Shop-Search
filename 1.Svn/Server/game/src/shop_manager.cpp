@@ -89,7 +89,7 @@ void CShopManager::ShopSearchProcess(LPCHARACTER ch, const TPacketCGPrivateShopS
 			pack2.item.price = ShopIter->price;
 			pack2.item.count = ShopIter->count;
 #if defined(ENABLE_CHEQUE_SYSTEM)
-			pack2.item.byChequePrice = it2->cheque_price;
+			pack2.item.byChequePrice = ShopIter->cheque_price;
 #endif
 			pack2.item.display_pos = static_cast<BYTE>(std::distance(vItemVec.begin(), ShopIter));
 			pack2.dwShopPID = GetOwner->GetPlayerID();
